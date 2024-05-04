@@ -1,4 +1,4 @@
-![logo](https://github.com/Subho9407/Subho9407/blob/main/devOps-cloud-native.gif)
+![logo](https://github.com/Subho9407/Subho9407/blob/main/python-2.gif)
 
 <h1 align="center">Hi 👋, I'm Subhojit Goswami</h1>
 <h3 align="center">A DevOps Enthusiast from India 💻🚀</h3>
