@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Subhojit Goswami</h1>
 <h3 align="center">A DevOps Enthusiast from India 💻🚀</h3>
 
-<img align=“right” alt=“coding” width="400” src=“https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif”>
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subho9407&label=Profile%20views&color=0e75b6&style=flat" alt="subho9407" /> </p>
 
